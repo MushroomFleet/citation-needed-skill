@@ -2,6 +2,8 @@
 
 A Claude skill that accepts articles, reports, and documents, verifies every factual claim via web search, and produces a standalone `_citation.md` report alongside your original file — without ever modifying it.
 
+There is an optional ["Collect Citations" skill](https://github.com/MushroomFleet/collect-citations-skill) which is designed to work with the output from this skill.
+
 ---
 
 ## What It Does
